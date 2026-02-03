@@ -40,11 +40,4 @@ I enjoy building responsive, user-focused web applications and continuously impr
 
 ---
 
-## 📸 Preview
-
-You can find screenshots and UI previews inside the project folders (if added).
-
----
-
-## 📁 Project Structure
 
