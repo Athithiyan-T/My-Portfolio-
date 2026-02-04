@@ -4,12 +4,6 @@ Welcome to my personal portfolio website repository!
 This project showcases my professional profile, technical skills, and project experience in a clear, modern, and recruiter-friendly format.
 
 ---
-
-## 👋 About Me
-
-I am **Athithiyan T**, a final-year **Electronics and Communication Engineering (ECE)** student with a strong interest in **software development and full-stack web technologies**.  
-I enjoy building responsive, user-focused web applications and continuously improving my skills through hands-on projects.
-
 ---
 
 ## 🚀 What This Portfolio Includes
